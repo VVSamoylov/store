@@ -1,4 +1,4 @@
-package ru.aisystem.store.repository;
+package ru.aisystem.store.repository.security;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import ru.aisystem.store.entity.security.User;

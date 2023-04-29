@@ -13,8 +13,8 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 import ru.aisystem.store.entity.security.Role;
 import ru.aisystem.store.entity.security.User;
-import ru.aisystem.store.repository.RoleRepository;
-import ru.aisystem.store.repository.UserRepository;
+import ru.aisystem.store.repository.security.RoleRepository;
+import ru.aisystem.store.repository.security.UserRepository;
 
 /**
  *
